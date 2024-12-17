@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Palm_Pools/static/css/main.583a42bb.css",
+    "main.js": "/Palm_Pools/static/js/main.cac2c17d.js",
+    "index.html": "/Palm_Pools/index.html",
+    "main.583a42bb.css.map": "/Palm_Pools/static/css/main.583a42bb.css.map",
+    "main.cac2c17d.js.map": "/Palm_Pools/static/js/main.cac2c17d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583a42bb.css",
+    "static/js/main.cac2c17d.js"
+  ]
+}
