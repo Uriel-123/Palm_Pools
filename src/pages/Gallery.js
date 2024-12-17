@@ -2,9 +2,9 @@ import React from 'react';
 
 const Gallery = () => {
   const images = [
-    { src: '/images/pool1.jpg', alt: 'Pool 1' },
-    { src: '/images/pool2.jpg', alt: 'Pool 2' },
-    { src: '/images/pool3.jpg', alt: 'Pool 3' },
+    { src: '/images/jacket1.jpeg', alt: 'Jacket 1' },
+    { src: '/images/pool2.jpg', alt: 'Jacket 2' },
+    { src: '/images/pool3.jpg', alt: 'Jacket 3' },
   ];
 
   return (
