@@ -1,7 +1,10 @@
+import React from 'react';
+import jacket1 from '../assets/images/jacket1.jpeg';
+import testImage from '../assets/images/133719700998064597.jpg';
+
 const images = [
-  { src: '/images/jacket1.jpeg', alt: 'Jacket 1' },
-  { src: '/images/jacket2.jpeg', alt: 'Jacket 2' },
-  { src: '/images/jacket3.jpeg', alt: 'Jacket 3' },
+  { src: jacket1, alt: 'Jacket 1' },
+  { src: testImage, alt: 'Test Image' },
 ];
 
 const Gallery = () => {
